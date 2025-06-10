@@ -20,13 +20,6 @@ It was created to practice the fundamentals of user input handling, basic arithm
 
 ---
 
-## 🛠️ Technologies Used
-
-- HTML, CSS, and JavaScript (Vanilla)
-- Modular code structure (multi-layered)
-
----
-
 ## 🚀 Why This Project?
 
 This project was one of my first steps into building more structured applications beyond basic UI, helping me understand how to separate concerns and organize code for better readability and scalability.
